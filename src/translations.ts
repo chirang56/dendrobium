@@ -25,7 +25,6 @@ const translations = {
     contactTitle: 'Get in Touch',
     address: 'Address',
     phone: 'Phone',
-    email: 'Email'
   },
   ne: {
     title: 'टोल विकास समिति',
@@ -53,7 +52,6 @@ const translations = {
     contactTitle: 'सम्पर्कमा रहनुहोस्',
     address: 'ठेगाना',
     phone: 'फोन',
-    email: 'इमेल'
   }
 } as const;
 
